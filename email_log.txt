@@ -1,0 +1,905 @@
+[2025-06-12 15:26:02] Starting email sending process...
+[2025-06-12 15:26:02] Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-12 15:45:49] ---- Starting the logging for sending the emails ---------
+[2025-06-12 15:45:50] Starting email sending process...
+[2025-06-12 15:45:50] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-12 15:45:50] Total Number of email recipients in the csv file are 1 emails.
+[2025-06-12 15:45:50] Total Number of email successfully sent are 1 emails.
+[2025-06-12 15:45:50] 📊 Summary: Sent 1 out of 1 emails.
+[2025-06-12 15:45:50] ✅ All emails sent successfully.
+[2025-06-12 15:45:50] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-12 15:52:20] ---- Starting the logging for sending the emails ---------
+[2025-06-12 15:52:21] Starting multiple email sending process...
+[2025-06-12 15:52:21] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-12 15:52:21] ✅ Email sent to Vishnu Priya (vishnupriya@infigroup.com)
+[2025-06-12 15:52:21] Total Number of email recipients in the csv file are 2 emails.
+[2025-06-12 15:52:21] Total Number of email successfully sent are 2 emails.
+[2025-06-12 15:52:21] 📊 Summary: Sent 2 out of 2 emails.
+[2025-06-12 15:52:21] ✅ All emails sent successfully.
+[2025-06-12 15:52:21] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-12 16:11:20] ---- Starting the logging for sending the emails ---------
+[2025-06-12 16:11:20] Error reading recipients CSV: 'NoneType' object has no attribute 'strip'
+
+
+[2025-06-12 16:20:01] ---- Starting the logging for sending the emails ---------
+[2025-06-12 16:20:01] ⚠️ Skipped row due to missing field(s): {'first_name': 'Kamlesh', 'last_name': 'Ranka', 'email': None}
+[2025-06-12 16:20:01] ⚠️ Skipped row due to missing field(s): {'first_name': 'Ranka', 'last_name': 'ranka@infi.com', 'email': None}
+[2025-06-12 16:20:01] ⚠️ Skipped row due to missing field(s): {'first_name': 'ranka@infigrou.com', 'last_name': None, 'email': None}
+[2025-06-12 16:20:01] Starting multiple email sending process...
+[2025-06-12 16:20:01] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-12 16:20:01] ✅ Email sent to Vishnu Priya (vishnupriya@infigroup.com)
+[2025-06-12 16:20:01] 📊 Summary: Total rows in CSV: 5 | Emails Planned to send: 2 | Successfully Sent: 2 | Skipped: 3
+[2025-06-12 16:20:01] ✅ All emails sent successfully.
+[2025-06-12 16:20:01] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-12 16:32:21] ---- Starting the logging for sending the emails ---------
+[2025-06-12 16:32:21] ⚠️ Skipped row due to missing field(s): {'first_name': 'Kamlesh', 'last_name': 'Ranka', 'email': None}
+[2025-06-12 16:32:21] ⚠️ Skipped row due to missing field(s): {'first_name': 'Ranka', 'last_name': 'ranka@infi.com', 'email': None}
+[2025-06-12 16:32:21] ⚠️ Skipped row due to missing field(s): {'first_name': 'ranka@infigrou.com', 'last_name': None, 'email': None}
+[2025-06-12 16:32:21] Starting multiple email sending process...
+[2025-06-12 16:32:21] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-12 16:32:21] ✅ Email sent to Vishnu Priya (vishnupriya@infigroup.com)
+[2025-06-12 16:32:21] ✅ Email sent to Kamlesh Ranka (ranka@example.com)
+[2025-06-12 16:32:21] 📊 Summary: Total rows in CSV: 6 | Emails Planned to send: 3 | Successfully Sent: 3 | Skipped: 3
+[2025-06-12 16:32:21] ✅ All emails sent successfully.
+[2025-06-12 16:32:21] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-12 17:05:15] ---- Starting the logging for sending the emails ---------
+[2025-06-12 17:05:15] ⚠️ Skipped row due to missing field(s): {'first_name': 'Kamlesh', 'last_name': 'Ranka', 'email': None}
+[2025-06-12 17:05:15] ⚠️ Skipped row due to missing field(s): {'first_name': 'Ranka', 'last_name': 'ranka@infi.com', 'email': None}
+[2025-06-12 17:05:15] ⚠️ Skipped row due to missing field(s): {'first_name': 'ranka@infigrou.com', 'last_name': None, 'email': None}
+[2025-06-12 17:05:15] Starting multiple email sending process...
+[2025-06-12 17:05:15] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-12 17:05:15] ✅ Email sent to Vishnu Priya (vishnupriya@infigroup.com)
+[2025-06-12 17:05:15] ✅ Email sent to Kamlesh Ranka (ranka@example.com)
+[2025-06-12 17:05:15] 📊 Summary: Total rows in CSV: 6 | Emails Planned to send: 3 | Successfully Sent: 3 | Skipped: 3
+[2025-06-12 17:05:15] ✅ All emails sent successfully.
+[2025-06-12 17:05:16] 📩 Bounce Report - The following emails were returned as undeliverable:
+[2025-06-12 17:05:16]    ❌ JohnNino.Calderon@dominos.com, Rajesh.Bandi@dominos.com, Aditya.Atchutanna@dominos.com, Methila.Rahman@dominos.com, Durga.PraveenDeevi@dominos.com, Udayalakshmi.Meduri@dominos.com, Marie.Youmans@dominos.com, Lokesh.Sharma@dominos.com, Glen-dale.Broughman@dominos.com, Mahmudul.Hasan@dominos.com, Eduardo.Poletto@dominos.com, Leonardo.Oliveira@dominos.com, Dhiarllon.Guedes@dominos.com, Gary.Balkus@dominos.com, shalini.KumariShalini@dominos.com, JuanCarlos.GarciaVilleda@dominos.com, Kenneth.Streger@dominos.com, Cristhian.Gomez@dominos.com, Temirlan.Nurkulov@dominos.com, Nikhitha.Vadlakonda@dominos.com, Amer.Khangharani@dominos.com, AkankshaK.Kundikar@dominos.com
+[2025-06-12 17:05:16]    ❌ JohnNino.Calderon@dominos.com, Glen-dale.Broughman@dominos.com, Durga.PraveenDeevi@dominos.com, Methila.Rahman@dominos.com, Eduardo.Poletto@dominos.com, AkankshaK.Kundikar@dominos.com, Lokesh.Sharma@dominos.com, Gary.Balkus@dominos.com, Amer.Khangharani@dominos.com, Nikhitha.Vadlakonda@dominos.com, JuanCarlos.GarciaVilleda@dominos.com, Marie.Youmans@dominos.com, Mahmudul.Hasan@dominos.com, Rajesh.Bandi@dominos.com, Temirlan.Nurkulov@dominos.com, Udayalakshmi.Meduri@dominos.com, Dhiarllon.Guedes@dominos.com, Kenneth.Streger@dominos.com, Cristhian.Gomez@dominos.com, Aditya.Atchutanna@dominos.com, Leonardo.Oliveira@dominos.com, shalini.KumariShalini@dominos.com
+[2025-06-12 17:05:16]    ❌ Udayalakshmi.Meduri@dominos.com, Glen-dale.Broughman@dominos.com, Marie.Youmans@dominos.com, Durga.PraveenDeevi@dominos.com, Methila.Rahman@dominos.com, JohnNino.Calderon@dominos.com, shalini.KumariShalini@dominos.com, AkankshaK.Kundikar@dominos.com, Lokesh.Sharma@dominos.com, Nikhitha.Vadlakonda@dominos.com, Amer.Khangharani@dominos.com, Gary.Balkus@dominos.com, Rajesh.Bandi@dominos.com, Aditya.Atchutanna@dominos.com, Mahmudul.Hasan@dominos.com, Temirlan.Nurkulov@dominos.com, Dhiarllon.Guedes@dominos.com, Cristhian.Gomez@dominos.com, Kenneth.Streger@dominos.com, Leonardo.Oliveira@dominos.com
+[2025-06-12 17:05:16]    ❌ Udayalakshmi.Meduri@dominos.com, Glen-dale.Broughman@dominos.com, Marie.Youmans@dominos.com, Durga.PraveenDeevi@dominos.com, Methila.Rahman@dominos.com, JohnNino.Calderon@dominos.com, shalini.KumariShalini@dominos.com, AkankshaK.Kundikar@dominos.com, Lokesh.Sharma@dominos.com, Nikhitha.Vadlakonda@dominos.com, Amer.Khangharani@dominos.com, Gary.Balkus@dominos.com, Rajesh.Bandi@dominos.com, Aditya.Atchutanna@dominos.com, Mahmudul.Hasan@dominos.com, Temirlan.Nurkulov@dominos.com, Dhiarllon.Guedes@dominos.com, Cristhian.Gomez@dominos.com, Kenneth.Streger@dominos.com, Leonardo.Oliveira@dominos.com
+[2025-06-12 17:05:16] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-12 17:14:46] ---- Starting the logging for sending the emails ---------
+[2025-06-12 17:14:46] ⚠️ Skipped row due to missing field(s): {'first_name': 'Kamlesh', 'last_name': 'Ranka', 'email': None}
+[2025-06-12 17:14:46] ⚠️ Skipped row due to missing field(s): {'first_name': 'Ranka', 'last_name': 'ranka@infi.com', 'email': None}
+[2025-06-12 17:14:46] ⚠️ Skipped row due to missing field(s): {'first_name': 'ranka@infigrou.com', 'last_name': None, 'email': None}
+[2025-06-12 17:14:46] Starting multiple email sending process...
+[2025-06-12 17:14:46] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-12 17:14:46] ✅ Email sent to Vishnu Priya (vishnupriya@infigroup.com)
+[2025-06-12 17:14:46] ✅ Email sent to Kamlesh Ranka (ranka@example.com)
+[2025-06-12 17:14:46] 📊 Summary: Total rows in CSV: 6 | Emails Planned to send: 3 | Successfully Sent: 3 | Skipped: 3
+[2025-06-12 17:14:46] ✅ All emails sent successfully.
+[2025-06-12 17:14:46] ⏳ Waiting 1 minutes for potential bounce messages...
+[2025-06-12 17:16:02] ✅ No bounces detected in recent Inbox messages.
+[2025-06-12 17:16:02] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-12 17:16:22] ---- Starting the logging for sending the emails ---------
+[2025-06-12 17:16:22] ⚠️ Skipped row due to missing field(s): {'first_name': 'Kamlesh', 'last_name': 'Ranka', 'email': None}
+[2025-06-12 17:16:22] ⚠️ Skipped row due to missing field(s): {'first_name': 'Ranka', 'last_name': 'ranka@infi.com', 'email': None}
+[2025-06-12 17:16:22] ⚠️ Skipped row due to missing field(s): {'first_name': 'ranka@infigrou.com', 'last_name': None, 'email': None}
+[2025-06-12 17:16:22] Starting multiple email sending process...
+[2025-06-12 17:16:22] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-12 17:16:22] ✅ Email sent to Vishnu Priya (vishnupriya@infigroup.com)
+[2025-06-12 17:16:22] ✅ Email sent to Kamlesh Ranka (ranka@example.com)
+[2025-06-12 17:16:22] 📊 Summary: Total rows in CSV: 6 | Emails Planned to send: 3 | Successfully Sent: 3 | Skipped: 3
+[2025-06-12 17:16:22] ✅ All emails sent successfully.
+[2025-06-12 17:16:22] ⏳ Waiting 1 minutes for potential bounce messages...
+[2025-06-12 17:17:34] ✅ No bounces detected in recent Inbox messages.
+[2025-06-12 17:17:34] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-12 17:21:24] ---- Starting the logging for sending the emails ---------
+[2025-06-12 17:21:24] ⚠️ Skipped row due to missing field(s): {'first_name': 'Kamlesh', 'last_name': 'Ranka', 'email': None}
+[2025-06-12 17:21:24] ⚠️ Skipped row due to missing field(s): {'first_name': 'Ranka', 'last_name': 'ranka@infi.com', 'email': None}
+[2025-06-12 17:21:24] ⚠️ Skipped row due to missing field(s): {'first_name': 'ranka@infigrou.com', 'last_name': None, 'email': None}
+[2025-06-12 17:21:24] Starting multiple email sending process...
+[2025-06-12 17:21:24] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-12 17:21:24] ✅ Email sent to Kamlesh Ranka (ranka@example.com)
+[2025-06-12 17:21:24] 📊 Summary: Total rows in CSV: 5 | Emails Planned to send: 2 | Successfully Sent: 2 | Skipped: 3
+[2025-06-12 17:21:24] ✅ All emails sent successfully.
+[2025-06-12 17:21:24] ⏳ Waiting 1 minutes for potential bounce messages...
+[2025-06-12 17:22:31] ✅ No bounces detected in recent Inbox messages.
+[2025-06-12 17:22:31] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-12 17:24:02] ---- Starting the logging for sending the emails ---------
+[2025-06-12 17:24:02] ⚠️ Skipped row due to missing field(s): {'first_name': 'Kamlesh', 'last_name': 'Ranka', 'email': None}
+[2025-06-12 17:24:02] ⚠️ Skipped row due to missing field(s): {'first_name': 'Ranka', 'last_name': 'ranka@infi.com', 'email': None}
+[2025-06-12 17:24:02] ⚠️ Skipped row due to missing field(s): {'first_name': 'ranka@infigrou.com', 'last_name': None, 'email': None}
+[2025-06-12 17:24:02] Starting multiple email sending process...
+[2025-06-12 17:24:02] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-12 17:24:02] ✅ Email sent to Kamlesh Ranka (ranka@example.com)
+[2025-06-12 17:24:02] 📊 Summary: Total rows in CSV: 5 | Emails Planned to send: 2 | Successfully Sent: 2 | Skipped: 3
+[2025-06-12 17:24:02] ✅ All emails sent successfully.
+[2025-06-12 17:24:02] ⏳ Waiting 1 minutes for potential bounce messages...
+[2025-06-12 17:25:03] 📩 Bounce Report - The following emails were returned as undeliverable:
+[2025-06-12 17:25:03]    ❌ JohnNino.Calderon@dominos.com, Rajesh.Bandi@dominos.com, Aditya.Atchutanna@dominos.com, Methila.Rahman@dominos.com, Durga.PraveenDeevi@dominos.com, Udayalakshmi.Meduri@dominos.com, Marie.Youmans@dominos.com, Lokesh.Sharma@dominos.com, Glen-dale.Broughman@dominos.com, Mahmudul.Hasan@dominos.com, Eduardo.Poletto@dominos.com, Leonardo.Oliveira@dominos.com, Dhiarllon.Guedes@dominos.com, Gary.Balkus@dominos.com, shalini.KumariShalini@dominos.com, JuanCarlos.GarciaVilleda@dominos.com, Kenneth.Streger@dominos.com, Cristhian.Gomez@dominos.com, Temirlan.Nurkulov@dominos.com, Nikhitha.Vadlakonda@dominos.com, Amer.Khangharani@dominos.com, AkankshaK.Kundikar@dominos.com
+[2025-06-12 17:25:03]    ❌ JohnNino.Calderon@dominos.com, Glen-dale.Broughman@dominos.com, Durga.PraveenDeevi@dominos.com, Methila.Rahman@dominos.com, Eduardo.Poletto@dominos.com, AkankshaK.Kundikar@dominos.com, Lokesh.Sharma@dominos.com, Gary.Balkus@dominos.com, Amer.Khangharani@dominos.com, Nikhitha.Vadlakonda@dominos.com, JuanCarlos.GarciaVilleda@dominos.com, Marie.Youmans@dominos.com, Mahmudul.Hasan@dominos.com, Rajesh.Bandi@dominos.com, Temirlan.Nurkulov@dominos.com, Udayalakshmi.Meduri@dominos.com, Dhiarllon.Guedes@dominos.com, Kenneth.Streger@dominos.com, Cristhian.Gomez@dominos.com, Aditya.Atchutanna@dominos.com, Leonardo.Oliveira@dominos.com, shalini.KumariShalini@dominos.com
+[2025-06-12 17:25:03]    ❌ Udayalakshmi.Meduri@dominos.com, Glen-dale.Broughman@dominos.com, Marie.Youmans@dominos.com, Durga.PraveenDeevi@dominos.com, Methila.Rahman@dominos.com, JohnNino.Calderon@dominos.com, shalini.KumariShalini@dominos.com, AkankshaK.Kundikar@dominos.com, Lokesh.Sharma@dominos.com, Nikhitha.Vadlakonda@dominos.com, Amer.Khangharani@dominos.com, Gary.Balkus@dominos.com, Rajesh.Bandi@dominos.com, Aditya.Atchutanna@dominos.com, Mahmudul.Hasan@dominos.com, Temirlan.Nurkulov@dominos.com, Dhiarllon.Guedes@dominos.com, Cristhian.Gomez@dominos.com, Kenneth.Streger@dominos.com, Leonardo.Oliveira@dominos.com
+[2025-06-12 17:25:03]    ❌ Udayalakshmi.Meduri@dominos.com, Glen-dale.Broughman@dominos.com, Marie.Youmans@dominos.com, Durga.PraveenDeevi@dominos.com, Methila.Rahman@dominos.com, JohnNino.Calderon@dominos.com, shalini.KumariShalini@dominos.com, AkankshaK.Kundikar@dominos.com, Lokesh.Sharma@dominos.com, Nikhitha.Vadlakonda@dominos.com, Amer.Khangharani@dominos.com, Gary.Balkus@dominos.com, Rajesh.Bandi@dominos.com, Aditya.Atchutanna@dominos.com, Mahmudul.Hasan@dominos.com, Temirlan.Nurkulov@dominos.com, Dhiarllon.Guedes@dominos.com, Cristhian.Gomez@dominos.com, Kenneth.Streger@dominos.com, Leonardo.Oliveira@dominos.com
+[2025-06-12 17:25:03] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-12 17:30:26] ---- Starting the logging for sending the emails ---------
+[2025-06-12 17:30:26] ⚠️ Skipped row due to missing field(s): {'first_name': 'Kamlesh', 'last_name': 'Ranka', 'email': None}
+[2025-06-12 17:30:26] ⚠️ Skipped row due to missing field(s): {'first_name': 'Ranka', 'last_name': 'ranka@infi.com', 'email': None}
+[2025-06-12 17:30:26] ⚠️ Skipped row due to missing field(s): {'first_name': 'ranka@infigrou.com', 'last_name': None, 'email': None}
+[2025-06-12 17:30:26] Starting multiple email sending process...
+[2025-06-12 17:30:26] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-12 17:30:26] ✅ Email sent to Kamlesh Ranka (ranka@example.com)
+[2025-06-12 17:30:26] 📊 Summary: Total rows in CSV: 5 | Emails Planned to send: 2 | Successfully Sent: 2 | Skipped: 3
+[2025-06-12 17:30:26] ✅ All emails sent successfully.
+[2025-06-12 17:30:26] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 14:27:59] ---- Starting the logging for sending the emails ---------
+[2025-06-13 14:27:59] Starting multiple email sending process...
+[2025-06-13 14:27:59] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 14:27:59] 📊 Summary: Total rows in CSV: 1 | Emails Planned to send: 1 | Successfully Sent: 1 | Skipped: 0
+[2025-06-13 14:27:59] ✅ All emails sent successfully.
+[2025-06-13 14:27:59] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 14:32:19] ---- Starting the logging for sending the emails ---------
+[2025-06-13 14:32:19] Starting multiple email sending process...
+[2025-06-13 14:32:19] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 14:32:19] 📊 Summary: Total rows in CSV: 1 | Emails Planned to send: 1 | Successfully Sent: 1 | Skipped: 0
+[2025-06-13 14:32:19] ✅ All emails sent successfully.
+[2025-06-13 14:32:19] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 14:32:40] ---- Starting the logging for sending the emails ---------
+[2025-06-13 14:32:40] Starting multiple email sending process...
+[2025-06-13 14:32:40] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 14:32:40] 📊 Summary: Total rows in CSV: 1 | Emails Planned to send: 1 | Successfully Sent: 1 | Skipped: 0
+[2025-06-13 14:32:40] ✅ All emails sent successfully.
+[2025-06-13 14:32:40] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 14:43:02] ---- Starting the logging for sending the emails ---------
+[2025-06-13 14:43:02] Error reading config file: [Errno 2] No such file or directory: 'C:\\Users\\kalakur\\OneDrive - dpz\\Desktop\\Dominos\\Personal\\Kamlesh - Infinity Tech Related Work\\Send Multiple Emails Automation\\email_config.json'
+
+
+[2025-06-13 14:44:27] ---- Starting the logging for sending the emails ---------
+[2025-06-13 14:44:27] Starting multiple email sending process...
+[2025-06-13 14:44:27] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 14:44:27] 📊 Summary: Total rows in CSV: 1 | Emails Planned to send: 1 | Successfully Sent: 1 | Skipped: 0
+[2025-06-13 14:44:27] ✅ All emails sent successfully.
+[2025-06-13 14:44:27] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 16:04:45] ---- Starting the logging for sending the emails ---------
+[2025-06-13 16:04:45] Starting multiple email sending process...
+[2025-06-13 16:04:45] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 16:04:45] 📊 Summary: Total rows in CSV: 1 | Emails Planned to send: 1 | Successfully Sent: 1 | Skipped: 0
+[2025-06-13 16:04:45] ✅ All emails sent successfully.
+[2025-06-13 16:04:45] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 16:11:54] ---- Starting the logging for sending the emails ---------
+[2025-06-13 16:11:54] Starting multiple email sending process...
+[2025-06-13 16:11:54] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 16:11:54] ✅ Email sent to Vishnu Priya (vishnupriya@infigroup.com)
+[2025-06-13 16:11:54] ✅ Email sent to Kamlesh Ranka (ranka@infigroup.com)
+[2025-06-13 16:11:54] ✅ Email sent to Rushit Patel (rushit@infigroup.com)
+[2025-06-13 16:11:54] 📊 Summary: Total rows in CSV: 4 | Emails Planned to send: 4 | Successfully Sent: 4 | Skipped: 0
+[2025-06-13 16:11:54] ✅ All emails sent successfully.
+[2025-06-13 16:11:54] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 16:50:54] ---- Starting the logging for sending the emails ---------
+[2025-06-13 16:50:54] Error reading recipients CSV: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-06-13 16:50:54] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 16:54:26] ---- Starting the logging for sending the emails ---------
+[2025-06-13 16:54:26] Error reading recipients Excel file: [Errno 13] Permission denied: 'C:\\Users\\kalakur\\OneDrive - dpz\\Desktop\\Dominos\\Personal\\Kamlesh - Infinity Tech Related Work\\Send Multiple Emails Automation\\recipients.xlsx'
+[2025-06-13 16:54:26] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 16:55:56] ---- Starting the logging for sending the emails ---------
+[2025-06-13 16:55:56] Starting multiple email sending process...
+[2025-06-13 16:55:56] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 16:55:56] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+
+
+[2025-06-13 16:58:21] ---- Starting the logging for sending the emails ---------
+[2025-06-13 16:58:21] Starting multiple email sending process...
+[2025-06-13 16:58:21] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 16:58:21] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 16:58:21] 📊 Summary: Total rows in excel: 2 | Emails Planned to send: 2 | Successfully Sent: 2 | Skipped: 0
+[2025-06-13 16:58:21] ✅ All emails sent successfully.
+[2025-06-13 16:58:21] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 17:04:02] ---- Starting the logging for sending the emails ---------
+[2025-06-13 17:04:03] Starting multiple email sending process...
+[2025-06-13 17:04:03] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 17:04:03] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 17:04:03] 📊 Summary: Total rows in excel: 2 | Emails Planned to send: 2 | Successfully Sent: 2 | Skipped: 0
+[2025-06-13 17:04:03] ✅ All emails sent successfully.
+[2025-06-13 17:04:03] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 17:23:10] ---- Starting the logging for sending the emails ---------
+[2025-06-13 17:23:10] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent', 'follow-up': nan}
+[2025-06-13 17:23:10] Starting multiple email sending process...
+[2025-06-13 17:23:10] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 17:23:10] ❌ Failed to send email to Vishnu Priya (nan): (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Outlook does not recognize one or more names. ', None, 0, -2147467259), None)
+[2025-06-13 17:23:11] 📊 Summary: Total rows in excel: 3 | Emails Planned to send: 2 | Successfully Sent: 1 | Skipped: 1
+[2025-06-13 17:23:11] ⚠️ Some emails failed. Please check the logs above.
+[2025-06-13 17:23:11] ❌ Failed email recipients:
+[2025-06-13 17:23:11]    - Vishnu Priya (nan)
+[2025-06-13 17:23:11] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 17:41:14] ---- Starting the logging for sending the emails ---------
+[2025-06-13 17:41:15] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-13 17:41:15] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent', 'follow-up': nan}
+[2025-06-13 17:41:15] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-13 17:41:15] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+
+
+[2025-06-13 17:41:15] Starting multiple email sending process...
+[2025-06-13 17:41:15] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 17:41:15] ❌ Failed to send email to Vishnu Priya (nan): (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Outlook does not recognize one or more names. ', None, 0, -2147467259), None)
+[2025-06-13 17:41:15] 📊 Summary: Total rows in excel: 3 | Emails Planned to send: 2 | Successfully Sent: 1 | Skipped: 1
+[2025-06-13 17:41:15] ⚠️ Some emails failed. Please check the logs above.
+[2025-06-13 17:41:15] ❌ Failed email recipients:
+[2025-06-13 17:41:15]    - Vishnu Priya (nan)
+[2025-06-13 17:41:15] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 17:43:38] ---- Starting the logging for sending the emails ---------
+[2025-06-13 17:43:38] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-13 17:43:38] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent', 'follow-up': nan}
+[2025-06-13 17:43:38] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-13 17:43:38] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-13 17:43:38] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+
+
+[2025-06-13 17:43:38] Starting multiple email sending process...
+[2025-06-13 17:43:38] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 17:43:38] ❌ Failed to send email to Vishnu Priya (nan): (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Outlook does not recognize one or more names. ', None, 0, -2147467259), None)
+[2025-06-13 17:43:38] ❌ Failed to send email to vishwehs kalakuntla (nan): (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Outlook does not recognize one or more names. ', None, 0, -2147467259), None)
+[2025-06-13 17:43:38] 📊 Summary: Total rows in excel: 4 | Emails Planned to send: 3 | Successfully Sent: 1 | Skipped: 1
+[2025-06-13 17:43:38] ⚠️ Some emails failed. Please check the logs above.
+[2025-06-13 17:43:38] ❌ Failed email recipients:
+[2025-06-13 17:43:38]    - Vishnu Priya (nan)
+[2025-06-13 17:43:38]    - vishwehs kalakuntla (nan)
+[2025-06-13 17:43:38] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 17:48:42] ---- Starting the logging for sending the emails ---------
+[2025-06-13 17:48:42] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+
+
+[2025-06-13 17:48:42] **************************** 
+[2025-06-13 17:48:42] Starting multiple email sending process...
+[2025-06-13 17:48:42] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 17:48:42] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 17:48:42] ❌ Failed to send email to Vishnu Priya (nan): (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Outlook does not recognize one or more names. ', None, 0, -2147467259), None)
+[2025-06-13 17:48:42] ❌ Failed to send email to vishwehs kalakuntla (nan): (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Outlook does not recognize one or more names. ', None, 0, -2147467259), None)
+[2025-06-13 17:48:42] 📊 Summary: Total rows in excel: 4 | Emails Planned to send: 4 | Successfully Sent: 2 | Skipped: 0
+[2025-06-13 17:48:42] ⚠️ Some emails failed. Please check the logs above.
+[2025-06-13 17:48:42] ❌ Failed email recipients:
+[2025-06-13 17:48:42]    - Vishnu Priya (nan)
+[2025-06-13 17:48:42]    - vishwehs kalakuntla (nan)
+[2025-06-13 17:48:42] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 17:54:40] ---- Starting the logging for sending the emails ---------
+[2025-06-13 17:54:40] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+
+
+[2025-06-13 17:54:40] **************************** 
+[2025-06-13 17:54:40] Starting multiple email sending process...
+[2025-06-13 17:54:40] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 17:54:40] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 17:54:40] ❌ Failed to send email to Vishnu Priya (nan): (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Outlook does not recognize one or more names. ', None, 0, -2147467259), None)
+[2025-06-13 17:54:40] ❌ Failed to send email to vishwehs kalakuntla (nan): (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Outlook does not recognize one or more names. ', None, 0, -2147467259), None)
+[2025-06-13 17:54:40] 📊 Summary: Total rows in excel: 4 | Emails Planned to send: 4 | Successfully Sent: 2 | Skipped: 0
+[2025-06-13 17:54:40] ⚠️ Some emails failed. Please check the logs above.
+[2025-06-13 17:54:40] ❌ Failed email recipients:
+[2025-06-13 17:54:40]    - Vishnu Priya (nan)
+[2025-06-13 17:54:40]    - vishwehs kalakuntla (nan)
+[2025-06-13 17:54:40] --------------------------------- DONE -----------------------------------
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------
+
+
+
+
+[2025-06-13 17:58:59] ---- Starting the logging for sending the emails ---------
+[2025-06-13 17:58:59] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-13 17:58:59] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent', 'follow-up': nan}
+[2025-06-13 17:58:59] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent', 'follow-up': nan}
+[2025-06-13 17:58:59] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent', 'follow-up': nan}
+
+
+[2025-06-13 17:58:59] **************************** 
+[2025-06-13 17:58:59] Starting multiple email sending process...
+[2025-06-13 17:59:00] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 17:59:00] ❌ Failed to send email to Vishnu Priya (nan): (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Outlook does not recognize one or more names. ', None, 0, -2147467259), None)
+[2025-06-13 17:59:00] ✅ Email sent to nan kalakuntla (vishwesh.kalakuntla@gmail.com)
+[2025-06-13 17:59:00] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 17:59:00] ❌ Failed to send email to vishwehs kalakuntla (nan): (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Outlook does not recognize one or more names. ', None, 0, -2147467259), None)
+[2025-06-13 17:59:00] ✅ Email sent to Vishnu nan (vishnupriya@infigroup.com)
+[2025-06-13 17:59:00] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 6 | Successfully Sent: 4 | Skipped: 3
+[2025-06-13 17:59:00] ⚠️ Some emails failed. Please check the logs above.
+[2025-06-13 17:59:00] ❌ Failed email recipients:
+[2025-06-13 17:59:00]    - Vishnu Priya (nan)
+[2025-06-13 17:59:00]    - vishwehs kalakuntla (nan)
+[2025-06-13 17:59:00] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 18:12:37] ---- Starting the logging for sending the emails ---------
+[2025-06-13 18:12:37] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-13 18:12:37] Error reading recipients Excel file: [Errno 13] Permission denied: 'C:\\Users\\kalakur\\OneDrive - dpz\\Desktop\\Dominos\\Personal\\Kamlesh - Infinity Tech Related Work\\Send Multiple Emails Automation\\recipients.xlsx'
+[2025-06-13 18:12:37] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 18:12:51] ---- Starting the logging for sending the emails ---------
+[2025-06-13 18:12:51] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-13 18:12:51] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent', 'follow-up': nan}
+[2025-06-13 18:12:51] ⚠️ Skipped , due to status was already sent: {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': 'sent - 2025-06-13 05:59 PM', 'follow-up': nan}
+[2025-06-13 18:12:51] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 05:59 PM', 'follow-up': nan}
+[2025-06-13 18:12:51] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent', 'follow-up': nan}
+[2025-06-13 18:12:51] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent', 'follow-up': nan}
+
+
+[2025-06-13 18:12:51] **************************** 
+[2025-06-13 18:12:51] Starting multiple email sending process...
+[2025-06-13 18:12:51] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 18:12:51] ❌ Failed to send email to Vishnu Priya (nan): (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Outlook does not recognize one or more names. ', None, 0, -2147467259), None)
+[2025-06-13 18:12:51] ❌ Failed to send email to vishwehs kalakuntla (nan): (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Outlook does not recognize one or more names. ', None, 0, -2147467259), None)
+[2025-06-13 18:12:51] ✅ Email sent to Vishnu nan (vishnupriya@infigroup.com)
+[2025-06-13 18:12:51] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 4 | Successfully Sent: 2 | Skipped: 5
+[2025-06-13 18:12:51] ⚠️ Some emails failed. Please check the logs above.
+[2025-06-13 18:12:51] ❌ Failed email recipients:
+[2025-06-13 18:12:51]    - Vishnu Priya (nan)
+[2025-06-13 18:12:51]    - vishwehs kalakuntla (nan)
+[2025-06-13 18:12:51] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 18:16:15] ---- Starting the logging for sending the emails ---------
+[2025-06-13 18:16:15] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-13 18:16:15] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent', 'follow-up': nan}
+[2025-06-13 18:16:15] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:12 PM', 'follow-up': nan}
+[2025-06-13 18:16:15] ⚠️ Skipped , due to status was already sent: {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': 'sent - 2025-06-13 05:59 PM', 'follow-up': nan}
+[2025-06-13 18:16:15] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 05:59 PM', 'follow-up': nan}
+[2025-06-13 18:16:15] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent', 'follow-up': nan}
+
+
+[2025-06-13 18:16:15] **************************** 
+[2025-06-13 18:16:15] Starting multiple email sending process...
+[2025-06-13 18:16:15] ❌ Failed to send email to Vishnu Priya (nan): (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Outlook does not recognize one or more names. ', None, 0, -2147467259), None)
+[2025-06-13 18:16:15] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 18:16:15] ❌ Failed to send email to vishwehs kalakuntla (nan): (-2147352567, 'Exception occurred.', (4096, 'Microsoft Outlook', 'Outlook does not recognize one or more names. ', None, 0, -2147467259), None)
+[2025-06-13 18:16:15] ✅ Email sent to Vishnu nan (vishnupriya@infigroup.com)
+[2025-06-13 18:16:15] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 4 | Successfully Sent: 2 | Skipped: 5
+[2025-06-13 18:16:15] ⚠️ Some emails failed. Please check the logs above.
+[2025-06-13 18:16:15] ❌ Failed email recipients:
+[2025-06-13 18:16:15]    - Vishnu Priya (nan)
+[2025-06-13 18:16:15]    - vishwehs kalakuntla (nan)
+[2025-06-13 18:16:15] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 18:24:15] ---- Starting the logging for sending the emails ---------
+[2025-06-13 18:24:15] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-13 18:24:15] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent', 'follow-up': nan}
+[2025-06-13 18:24:15] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:12 PM', 'follow-up': nan}
+[2025-06-13 18:24:15] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-13 18:24:15] ⚠️ Skipped , due to status was already sent: {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': 'sent - 2025-06-13 05:59 PM', 'follow-up': nan}
+[2025-06-13 18:24:15] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 05:59 PM', 'follow-up': nan}
+[2025-06-13 18:24:15] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-13 18:24:15] ⚠️ Skipped row due to missing field(s): {'Sno': 8, 'first_name': 'Vishnu', 'last_name': nan, 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-13 18:24:15] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent', 'follow-up': nan}
+
+
+[2025-06-13 18:24:15] **************************** 
+[2025-06-13 18:24:15] Starting multiple email sending process...
+[2025-06-13 18:24:15] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 18:24:15] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 1 | Successfully Sent: 1 | Skipped: 8
+[2025-06-13 18:24:15] ✅ All emails sent successfully.
+[2025-06-13 18:24:15] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 18:28:10] ---- Starting the logging for sending the emails ---------
+[2025-06-13 18:28:10] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-13 18:28:10] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-13 18:28:10] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-13 18:28:10] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-13 18:28:10] ⚠️ Skipped row due to missing field(s): {'Sno': 8, 'first_name': 'Vishnu', 'last_name': nan, 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+
+
+[2025-06-13 18:28:10] **************************** 
+[2025-06-13 18:28:10] Starting multiple email sending process...
+[2025-06-13 18:28:10] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 18:28:10] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 18:28:10] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 18:28:10] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 18:28:10] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-13 18:28:10] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 5 | Successfully Sent: 5 | Skipped: 4
+[2025-06-13 18:28:10] ✅ All emails sent successfully.
+[2025-06-13 18:28:10] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-13 18:29:23] ---- Starting the logging for sending the emails ---------
+[2025-06-13 18:29:23] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-13 18:29:23] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-13 18:29:24] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-13 18:29:24] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-13 18:29:24] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-13 18:29:24] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-13 18:29:24] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-13 18:29:24] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-13 18:29:24] ⚠️ Skipped row due to missing field(s): {'Sno': 8, 'first_name': 'Vishnu', 'last_name': nan, 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-13 18:29:24] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+
+
+[2025-06-13 18:29:24] **************************** 
+[2025-06-13 18:29:24] Starting multiple email sending process...
+[2025-06-13 18:29:24] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 0 | Successfully Sent: 0 | Skipped: 9
+[2025-06-13 18:29:24] ✅ All emails sent successfully.
+[2025-06-13 18:29:24] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 16:22:04] ---- Starting the logging for sending the emails ---------
+[2025-06-16 16:22:04] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 16:22:04] Error reading recipients Excel file: [Errno 13] Permission denied: 'C:\\Users\\kalakur\\OneDrive - dpz\\Desktop\\Dominos\\Personal\\Kamlesh - Infinity Tech Related Work\\Send Multiple Emails Automation\\recipients.xlsx'
+[2025-06-16 16:22:04] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 16:22:19] ---- Starting the logging for sending the emails ---------
+[2025-06-16 16:22:19] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 16:22:20] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:22:20] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:22:20] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:22:20] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:22:20] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:22:20] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:22:20] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:22:20] ⚠️ Skipped row due to missing field(s): {'Sno': 8, 'first_name': 'Vishnu', 'last_name': nan, 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:22:20] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+
+
+[2025-06-16 16:22:20] **************************** 
+[2025-06-16 16:22:20] Starting multiple email sending process...
+[2025-06-16 16:22:20] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 0 | Successfully Sent: 0 | Skipped: 9
+[2025-06-16 16:22:20] ✅ All emails sent successfully.
+[2025-06-16 16:22:20] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 16:42:54] ---- Starting the logging for sending the emails ---------
+[2025-06-16 16:43:06] TEST_MODE is ON
+[2025-06-16 16:43:06] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 16:43:07] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:43:07] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:43:07] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:43:07] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:43:07] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:43:07] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:43:07] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:43:07] ⚠️ Skipped row due to missing field(s): {'Sno': 8, 'first_name': 'Vishnu', 'last_name': nan, 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+
+
+[2025-06-16 16:43:07] **************************** 
+[2025-06-16 16:43:07] Starting multiple email sending process...
+[2025-06-16 16:43:07] 🧪 [TEST MODE] Would send email to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-16 16:43:07] 🧪 [TEST MODE] Skipped writing status updates to Excel.
+[2025-06-16 16:43:07] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 1 | Successfully Sent: 1 | Skipped: 8
+[2025-06-16 16:43:07] ✅ All emails sent successfully.
+[2025-06-16 16:43:07] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 16:49:17] ---- Starting the logging for sending the emails ---------
+[2025-06-16 16:49:20] TEST_MODE is ON
+[2025-06-16 16:49:20] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 16:49:20] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:49:20] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:49:20] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:49:20] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:49:20] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:49:20] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:49:20] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:49:20] ⚠️ Skipped row due to missing field(s): {'Sno': 8, 'first_name': 'Vishnu', 'last_name': nan, 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+
+
+[2025-06-16 16:49:20] **************************** 
+[2025-06-16 16:49:20] Starting multiple email sending process...
+[2025-06-16 16:49:20] 🧪 [TEST MODE] Would send email to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-16 16:49:20] 🧪 [TEST MODE] Skipped writing status updates to Excel.
+[2025-06-16 16:49:20] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 1 | Successfully Sent: 1 | Skipped: 8
+[2025-06-16 16:49:20] Test mode: Emails that it will send.
+[2025-06-16 16:49:20] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 16:49:28] ---- Starting the logging for sending the emails ---------
+[2025-06-16 16:49:37] TEST_MODE is OFF
+[2025-06-16 16:49:47] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 16:49:47] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:49:47] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:49:47] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:49:47] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:49:47] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:49:47] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:49:47] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:49:47] ⚠️ Skipped row due to missing field(s): {'Sno': 8, 'first_name': 'Vishnu', 'last_name': nan, 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+
+
+[2025-06-16 16:49:47] **************************** 
+[2025-06-16 16:49:47] Starting multiple email sending process...
+[2025-06-16 16:49:47] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-16 16:49:47] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 1 | Successfully Sent: 1 | Skipped: 8
+[2025-06-16 16:49:47] ✅ All emails sent successfully.
+[2025-06-16 16:49:47] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 16:50:21] ---- Starting the logging for sending the emails ---------
+[2025-06-16 16:50:23] TEST_MODE is OFF
+[2025-06-16 16:50:32] Aborted by user before sending real emails.
+
+
+[2025-06-16 16:51:11] ---- Starting the logging for sending the emails ---------
+[2025-06-16 16:51:13] TEST_MODE is OFF
+[2025-06-16 16:51:19] Aborted by user before sending real emails.
+
+
+[2025-06-16 16:51:47] ---- Starting the logging for sending the emails ---------
+[2025-06-16 16:51:48] TEST_MODE is OFF
+[2025-06-16 16:51:55] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 16:51:55] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:51:55] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:51:55] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:51:55] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:51:55] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:51:55] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:51:55] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:51:55] ⚠️ Skipped row due to missing field(s): {'Sno': 8, 'first_name': 'Vishnu', 'last_name': nan, 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:51:55] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-16 04:49 PM', 'follow-up': nan}
+
+
+[2025-06-16 16:51:55] **************************** 
+[2025-06-16 16:51:55] Starting multiple email sending process...
+[2025-06-16 16:51:55] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 0 | Successfully Sent: 0 | Skipped: 9
+[2025-06-16 16:51:55] ✅ All emails sent successfully.
+[2025-06-16 16:51:55] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 16:57:56] ---- Starting the logging for sending the emails ---------
+[2025-06-16 16:58:07] TEST_MODE is ON
+[2025-06-16 16:58:07] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 16:58:08] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:58:08] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:58:08] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:58:08] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:58:08] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:58:08] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:58:08] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+
+
+[2025-06-16 16:58:08] **************************** 
+[2025-06-16 16:58:08] Starting multiple email sending process...
+[2025-06-16 16:58:08] 🧪 [TEST MODE] Would send email to Vishnu Priya (vishnupriya@infigroup.com)
+[2025-06-16 16:58:08] 🧪 [TEST MODE] Would send email to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-16 16:58:08] 🧪 [TEST MODE] Skipped writing status updates to Excel.
+[2025-06-16 16:58:08] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 2 | Successfully Sent: 2 | Skipped: 7
+[2025-06-16 16:58:08] Test mode: Emails that it will send.
+[2025-06-16 16:58:08] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 16:58:51] ---- Starting the logging for sending the emails ---------
+[2025-06-16 16:59:01] TEST_MODE is OFF
+[2025-06-16 16:59:14] Aborted by user before sending real emails.
+
+
+[2025-06-16 16:59:23] ---- Starting the logging for sending the emails ---------
+[2025-06-16 16:59:27] TEST_MODE is OFF
+[2025-06-16 16:59:30] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 16:59:30] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:59:30] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:59:30] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:59:30] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 16:59:30] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:59:30] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 16:59:30] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+
+
+[2025-06-16 16:59:30] **************************** 
+[2025-06-16 16:59:30] Starting multiple email sending process...
+[2025-06-16 16:59:30] ✅ Email sent to Vishnu Priya (vishnupriya@infigroup.com)
+[2025-06-16 16:59:30] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-16 16:59:30] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 2 | Successfully Sent: 2 | Skipped: 7
+[2025-06-16 16:59:30] ✅ All emails sent successfully.
+[2025-06-16 16:59:30] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 17:16:29] ---- Starting the logging for sending the emails ---------
+[2025-06-16 17:16:33] TEST_MODE is ON
+[2025-06-16 17:16:33] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 17:16:33] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:16:33] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:16:33] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:16:33] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:16:33] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:16:33] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:16:33] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:16:33] ⚠️ Skipped , due to status was already sent: {'Sno': 8, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': 'sent - 2025-06-16 04:59 PM', 'follow-up': nan}
+
+
+[2025-06-16 17:16:33] **************************** 
+[2025-06-16 17:16:33] Starting multiple email sending process...
+[2025-06-16 17:16:33] 🧪 [TEST MODE] Would send email to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-16 17:16:33] 🧪 [TEST MODE] Skipped writing status updates to Excel.
+[2025-06-16 17:16:33] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 1 | Successfully Sent: 1 | Skipped: 8
+[2025-06-16 17:16:33] Test mode: Emails that it will send.
+[2025-06-16 17:16:33] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 17:16:40] ---- Starting the logging for sending the emails ---------
+[2025-06-16 17:16:42] TEST_MODE is OFF
+[2025-06-16 17:16:47] Aborted by user before sending real emails.
+
+
+[2025-06-16 17:16:53] ---- Starting the logging for sending the emails ---------
+[2025-06-16 17:16:56] TEST_MODE is OFF
+[2025-06-16 17:16:57] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 17:16:57] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:16:57] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:16:57] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:16:57] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:16:57] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:16:57] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:16:57] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:16:57] ⚠️ Skipped , due to status was already sent: {'Sno': 8, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': 'sent - 2025-06-16 04:59 PM', 'follow-up': nan}
+
+
+[2025-06-16 17:16:57] **************************** 
+[2025-06-16 17:16:57] Starting multiple email sending process...
+[2025-06-16 17:16:57] ✅ Email sent to Rohit Kalakuntla (Rohit.kalakuntla@dominos.com)
+[2025-06-16 17:16:57] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 1 | Successfully Sent: 1 | Skipped: 8
+[2025-06-16 17:16:57] ✅ All emails sent successfully.
+[2025-06-16 17:16:57] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 17:27:01] ---- Starting the logging for sending the emails ---------
+[2025-06-16 17:27:04] TEST_MODE is OFF
+[2025-06-16 17:27:13] Backup of the excel workbook will be taken and stored in same folder path
+[2025-06-16 17:27:13] 📁 Backup created: C:\Users\kalakur\OneDrive - dpz\Desktop\Dominos\Personal\Kamlesh - Infinity Tech Related Work\Send Multiple Emails Automation\recipients_backup_20250616_172713.xlsx
+[2025-06-16 17:27:13] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 17:27:13] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:27:13] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:27:13] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:27:13] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:27:13] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:27:13] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:27:13] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:27:13] ⚠️ Skipped , due to status was already sent: {'Sno': 8, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': 'sent - 2025-06-16 04:59 PM', 'follow-up': nan}
+[2025-06-16 17:27:13] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-16 05:16 PM', 'follow-up': nan}
+
+
+[2025-06-16 17:27:13] **************************** 
+[2025-06-16 17:27:13] Starting multiple email sending process...
+[2025-06-16 17:27:13] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 0 | Successfully Sent: 0 | Skipped: 9
+[2025-06-16 17:27:13] ✅ All emails sent successfully.
+[2025-06-16 17:27:13] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 17:32:48] ---- Starting the logging for sending the emails ---------
+[2025-06-16 17:32:51] TEST_MODE is OFF
+[2025-06-16 17:33:03] Backup of the excel workbook will be taken and stored in same folder path
+[2025-06-16 17:33:03] 📁 Backup created: C:\Users\kalakur\OneDrive - dpz\Desktop\Dominos\Personal\Kamlesh - Infinity Tech Related Work\Send Multiple Emails Automation\recipients_backup_20250616_173303.xlsx
+[2025-06-16 17:33:03] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 17:33:04] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:33:04] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:33:04] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:33:04] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:33:04] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:33:04] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:33:04] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:33:04] ⚠️ Skipped , due to status was already sent: {'Sno': 8, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': 'sent - 2025-06-16 04:59 PM', 'follow-up': nan}
+[2025-06-16 17:33:04] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-16 05:16 PM', 'follow-up': nan}
+
+
+[2025-06-16 17:33:04] **************************** 
+[2025-06-16 17:33:04] Starting multiple email sending process...
+[2025-06-16 17:33:04] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 0 | Successfully Sent: 0 | Skipped: 9
+[2025-06-16 17:33:04] ✅ All emails sent successfully.
+[2025-06-16 17:33:04] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 17:47:36] ---- Starting the logging for sending the emails ---------
+[2025-06-16 17:47:44] TEST_MODE is ON
+[2025-06-16 17:47:44] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 17:47:44] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:47:44] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:47:44] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:47:44] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:47:44] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:47:44] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:47:44] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:47:44] ⚠️ Skipped , due to status was already sent: {'Sno': 8, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': 'sent - 2025-06-16 04:59 PM', 'follow-up': nan}
+[2025-06-16 17:47:44] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-16 05:16 PM', 'follow-up': nan}
+
+
+[2025-06-16 17:47:44] **************************** 
+[2025-06-16 17:47:44] Starting multiple email sending process...
+[2025-06-16 17:47:44] 🧪 [TEST MODE] Skipped writing status updates to Excel.
+[2025-06-16 17:47:44] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 0 | Successfully Sent: 0 | Skipped: 9
+[2025-06-16 17:47:44] Test mode: Emails that it will send.
+[2025-06-16 17:47:44] --------------------------------- DONE -----------------------------------
+[2025-06-16 17:47:44] 📤 Log email sent to rohit.kalakuntla@dominos.com
+
+
+[2025-06-16 17:50:53] ---- Starting the logging for sending the emails ---------
+[2025-06-16 17:50:57] TEST_MODE is ON
+[2025-06-16 17:50:57] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 17:50:57] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:50:57] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:50:57] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:50:57] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:50:57] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:50:57] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:50:57] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:50:57] ⚠️ Skipped , due to status was already sent: {'Sno': 8, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': 'sent - 2025-06-16 04:59 PM', 'follow-up': nan}
+[2025-06-16 17:50:57] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-16 05:16 PM', 'follow-up': nan}
+[2025-06-16 17:50:57] **************************** 
+[2025-06-16 17:50:57] Starting multiple email sending process...
+[2025-06-16 17:50:57] 🧪 [TEST MODE] Skipped writing status updates to Excel.
+[2025-06-16 17:50:57] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 0 | Successfully Sent: 0 | Skipped: 9
+[2025-06-16 17:50:57] Test mode: Emails that it will send.
+[2025-06-16 17:50:57] --------------------------------- DONE -----------------------------------
+[2025-06-16 17:50:57] 📤 Log email sent to rohit.kalakuntla@dominos.com
+
+
+[2025-06-16 17:51:28] ---- Starting the logging for sending the emails ---------
+[2025-06-16 17:51:29] TEST_MODE is OFF
+[2025-06-16 17:51:38] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 17:51:38] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:51:38] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:51:38] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:51:38] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:51:38] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:51:38] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 17:51:38] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 17:51:38] ⚠️ Skipped , due to status was already sent: {'Sno': 8, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': 'sent - 2025-06-16 04:59 PM', 'follow-up': nan}
+[2025-06-16 17:51:38] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-16 05:16 PM', 'follow-up': nan}
+[2025-06-16 17:51:38] **************************** 
+[2025-06-16 17:51:38] Starting multiple email sending process...
+[2025-06-16 17:51:38] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 0 | Successfully Sent: 0 | Skipped: 9
+[2025-06-16 17:51:38] ✅ All emails sent successfully.
+[2025-06-16 17:51:38] --------------------------------- DONE -----------------------------------
+[2025-06-16 17:51:38] 📤 Log email sent to rohit.kalakuntla@dominos.com
+
+
+[2025-06-16 21:37:38] ---- Starting the logging for sending the emails ---------
+[2025-06-16 21:37:42] TEST_MODE is ON
+[2025-06-16 21:37:42] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 21:37:42] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:37:42] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:37:42] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 21:37:42] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 21:37:42] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:37:42] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:37:42] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 21:37:42] ⚠️ Skipped , due to status was already sent: {'Sno': 8, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': 'sent - 2025-06-16 04:59 PM', 'follow-up': nan}
+[2025-06-16 21:37:42] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-16 05:16 PM', 'follow-up': nan}
+[2025-06-16 21:37:42] **************************** 
+[2025-06-16 21:37:42] Starting multiple email sending process...
+[2025-06-16 21:37:45] 🧪 [TEST MODE] Skipped writing status updates to Excel.
+[2025-06-16 21:37:45] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 0 | Successfully Sent: 0 | Skipped: 9
+[2025-06-16 21:37:45] Test mode: Emails that it will send.
+[2025-06-16 21:37:46] 📤 Log email sent to rohit.kalakuntla@dominos.com
+[2025-06-16 21:37:46] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 21:46:33] ---- Starting the logging for sending the emails ---------
+[2025-06-16 21:46:36] TEST_MODE is ON
+
+
+[2025-06-16 21:47:53] ---- Starting the logging for sending the emails ---------
+[2025-06-16 21:47:54] TEST_MODE is ON
+
+
+[2025-06-16 21:52:35] ---- Starting the logging for sending the emails ---------
+[2025-06-16 21:52:41] TEST_MODE is ON
+
+
+[2025-06-16 21:55:03] ---- Starting the logging for sending the emails ---------
+[2025-06-16 21:55:05] TEST_MODE is ON
+[2025-06-16 21:55:06] User has confirmed all the details
+[2025-06-16 21:55:06] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 21:55:06] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:55:06] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:55:06] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 21:55:06] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 21:55:06] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:55:06] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:55:07] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 21:55:07] ⚠️ Skipped , due to status was already sent: {'Sno': 8, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': 'sent - 2025-06-16 04:59 PM', 'follow-up': nan}
+[2025-06-16 21:55:07] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-16 05:16 PM', 'follow-up': nan}
+[2025-06-16 21:55:07] **************************** 
+[2025-06-16 21:55:07] Starting multiple email sending process...
+[2025-06-16 21:55:08] 🧪 [TEST MODE] Skipped writing status updates to Excel.
+[2025-06-16 21:55:08] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 0 | Successfully Sent: 0 | Skipped: 9
+[2025-06-16 21:55:08] Test mode: Emails that it will send.
+[2025-06-16 21:55:08] 📤 Log email sent to rohit.kalakuntla@dominos.com
+[2025-06-16 21:55:08] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 21:55:48] ---- Starting the logging for sending the emails ---------
+[2025-06-16 21:55:50] TEST_MODE is OFF
+[2025-06-16 21:55:52] Aborted by user before sending real emails.
+
+
+[2025-06-16 21:55:56] ---- Starting the logging for sending the emails ---------
+[2025-06-16 21:55:57] TEST_MODE is OFF
+[2025-06-16 21:56:03] Backup of the excel workbook will be taken and stored in same folder path
+[2025-06-16 21:56:03] 📁 Backup created: C:\Users\kalakur\OneDrive - dpz\Desktop\Dominos\Personal\Kamlesh - Infinity Tech Related Work\Send Multiple Emails Automation\recipients_backup_20250616_215603.xlsx
+[2025-06-16 21:56:07] User has confirmed all the details
+[2025-06-16 21:56:07] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 21:56:07] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:56:07] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:56:07] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 21:56:07] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 21:56:07] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:56:07] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:56:07] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 21:56:07] ⚠️ Skipped , due to status was already sent: {'Sno': 8, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': 'sent - 2025-06-16 04:59 PM', 'follow-up': nan}
+[2025-06-16 21:56:07] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-16 05:16 PM', 'follow-up': nan}
+[2025-06-16 21:56:07] **************************** 
+[2025-06-16 21:56:07] Starting multiple email sending process...
+[2025-06-16 21:56:07] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 0 | Successfully Sent: 0 | Skipped: 9
+[2025-06-16 21:56:07] ✅ All emails sent successfully.
+[2025-06-16 21:56:07] 📤 Log email sent to rohit.kalakuntla@dominos.com
+[2025-06-16 21:56:07] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 21:56:33] ---- Starting the logging for sending the emails ---------
+[2025-06-16 21:56:34] TEST_MODE is OFF
+[2025-06-16 21:56:38] Aborted by user before sending real emails.
+
+
+[2025-06-16 21:56:41] ---- Starting the logging for sending the emails ---------
+[2025-06-16 21:56:42] TEST_MODE is OFF
+[2025-06-16 21:56:51] User has confirmed all the details
+[2025-06-16 21:56:51] ***************** ⚠️ Skipping these people as status is mentioned as sent ********** 
+[2025-06-16 21:56:51] ⚠️ Skipped , due to status was already sent: {'Sno': 1, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:56:51] ⚠️ Skipped , due to status was already sent: {'Sno': 2, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:56:51] ⚠️ Skipped row due to missing field(s): {'Sno': 3, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': nan, 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': nan, 'follow-up': nan}
+[2025-06-16 21:56:51] ⚠️ Skipped row due to missing field(s): {'Sno': 4, 'first_name': nan, 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': 'vishwesh.kalakuntla@gmail.com', 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 21:56:51] ⚠️ Skipped , due to status was already sent: {'Sno': 5, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:56:51] ⚠️ Skipped , due to status was already sent: {'Sno': 6, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-13 06:28 PM', 'follow-up': nan}
+[2025-06-16 21:56:51] ⚠️ Skipped row due to missing field(s): {'Sno': 7, 'first_name': 'vishwehs', 'last_name': 'kalakuntla', 'Company Name': 'test1', 'email': nan, 'Phone Number': nan, 'Title': 'DevOps', 'status': nan, 'follow-up': nan}
+[2025-06-16 21:56:51] ⚠️ Skipped , due to status was already sent: {'Sno': 8, 'first_name': 'Vishnu', 'last_name': 'Priya', 'Company Name': 'Test', 'email': 'vishnupriya@infigroup.com', 'Phone Number': '123-456-7890', 'Title': 'BA', 'status': 'sent - 2025-06-16 04:59 PM', 'follow-up': nan}
+[2025-06-16 21:56:51] ⚠️ Skipped , due to status was already sent: {'Sno': 9, 'first_name': 'Rohit', 'last_name': 'Kalakuntla', 'Company Name': 'Dominos', 'email': 'Rohit.kalakuntla@dominos.com', 'Phone Number': '470-331-2941', 'Title': 'Release ', 'status': 'sent - 2025-06-16 05:16 PM', 'follow-up': nan}
+[2025-06-16 21:56:51] **************************** 
+[2025-06-16 21:56:51] Starting multiple email sending process...
+[2025-06-16 21:56:51] 📊 Summary: Total rows in excel: 9 | Emails Planned to send: 0 | Successfully Sent: 0 | Skipped: 9
+[2025-06-16 21:56:51] ✅ All emails sent successfully.
+[2025-06-16 21:56:51] 📤 Log email sent to rohit.kalakuntla@dominos.com
+[2025-06-16 21:56:51] --------------------------------- DONE -----------------------------------
+
+
+[2025-06-16 21:57:32] ---- Starting the logging for sending the emails ---------
+[2025-06-16 21:57:33] TEST_MODE is OFF
